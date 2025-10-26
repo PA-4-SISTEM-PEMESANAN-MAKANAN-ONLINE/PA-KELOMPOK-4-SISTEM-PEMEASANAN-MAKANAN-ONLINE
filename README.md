@@ -174,7 +174,7 @@ Setelah memilih opsi '4' dari Menu Admin (Pilih 1-5 : 4) dan melalui proses Load
 
 <img width="664" height="156" alt="Screenshot 2025-10-26 202514" src="https://github.com/user-attachments/assets/2e7e02f4-1152-4c40-9377-71fe5e04d790" />
 
-Setelah administrator memasukkan nama menu "Ayam Katsu" untuk di-update dan memasukkan harga baru: 15000, program memprosesnya (Loading.....) dan menampilkan konfirmasi "Menu 'Ayam Katsu' berhasil diupdate dengan harga Rp 15000!", sebelum menunggu pengguna menekan Enter untuk kembali.
+Setelah admin memasukkan nama menu "Ayam Katsu" untuk di-update dan memasukkan harga baru: 15000, program memprosesnya (Loading.....) dan menampilkan konfirmasi "Menu 'Ayam Katsu' berhasil diupdate dengan harga Rp 15000!", sebelum menunggu pengguna menekan Enter untuk kembali.
 
 <img width="388" height="448" alt="Screenshot 2025-10-26 202558" src="https://github.com/user-attachments/assets/4ba2442b-9e4a-482b-89b0-7c42c6208c66" />
 
